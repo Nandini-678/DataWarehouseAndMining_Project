@@ -1,0 +1,2 @@
+# DataWarehouseAndMining_Project
+Online Fake Job Detection Project - In this project, to avoid fraudulent posts for jobs on the internet, an automated tool using machine learning based classification techniques is proposed. Different supervised learning algorithms are used to identify fake jobs such as Random forest, Support Vector Machine and Naive Bayes. And the best algorithm is choosed by considering the different criteria. Accuracy score, confusion matrix and classification report are used to predict the efficient algorithm.
